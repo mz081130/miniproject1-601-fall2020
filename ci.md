@@ -49,6 +49,7 @@ One method to fit the Docker in the CI process is to have the CI server build th
 * can focus on deployment
 * Improved Version Control by committing changes to your Docker images for standardizing environment
 
-* Source
+
+Source
  [How and Why You Need to Use Dockers In CI & CD](https://www.cigniti.com/blog/need-use-dockers-ci-cd/)
 
